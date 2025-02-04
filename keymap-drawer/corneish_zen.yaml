@@ -94,7 +94,7 @@ layers:
   - DOWN
   - UP
   - RIGHT
-  - {t: ▽, type: trans}
+  - Gui+Sft+M
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -127,7 +127,7 @@ layers:
   - '&mkp MB2'
   - '&mkp MB1'
   - {t: ▽, type: trans}
-  - '&mmv MOVE_RIGHT'
+  - {t: ▽, type: trans}
   - '&mmv MOVE_RIGHT'
   - '&mmv MOVE_DOWN'
   - '&mmv MOVE_LEFT'
