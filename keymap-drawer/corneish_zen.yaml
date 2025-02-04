@@ -112,26 +112,27 @@ layers:
   - {type: held}
   - {t: GLOBE, h: sticky}
   MOUSE:
-  - '&msc SCRL_LEFT'
-  - '&msc SCRL_UP'
-  - '&mmv MOVE_UP'
-  - '&msc SCRL_DOWN'
-  - '&msc SCRL_RIGHT'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LALT
   - RGUI
-  - RALT
-  - {t: ▽, type: trans}
-  - '&mmv MOVE_LEFT'
-  - '&mmv MOVE_DOWN'
-  - '&mmv MOVE_RIGHT'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&mkp MB1'
-  - '&mkp MB2'
+  - {t: ▽, type: trans}
+  - '&msc SCRL_RIGHT'
+  - '&msc SCRL_DOWN'
+  - '&mmv MOVE_UP'
+  - '&msc SCRL_UP'
+  - '&msc SCRL_LEFT'
+  - LCTRL
   - '&mkp MB3'
-  - RCTRL
+  - '&mkp MB2'
+  - '&mkp MB1'
+  - {t: ▽, type: trans}
+  - '&mmv MOVE_RIGHT'
+  - '&mmv MOVE_RIGHT'
+  - '&mmv MOVE_DOWN'
+  - '&mmv MOVE_LEFT'
+  - {t: ▽, type: trans}
+  - LSHFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -141,8 +142,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - RSHFT
-  - {t: ▽, type: trans}
+  - {t: GLOBE, h: sticky}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
